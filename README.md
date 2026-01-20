@@ -4,7 +4,7 @@ I am a **Python Backend Developer** passionate about building robust web service
 I focus on writing clean, maintainable code and solving real business problems with technology.
 
 **Tech Stack**
-* **Languages:** Python 3.11, SQL, JavaScript
+* **Languages:** Python 3.12, SQL, JavaScript
 * **Frameworks:** Django 5, Django REST Framework (DRF), FastAPI
 * **Databases:** PostgreSQL, SQLite, Redis
 * **DevOps:** Docker, Docker Compose, AWS EC2, Linux, Nginx
